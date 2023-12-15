@@ -199,6 +199,10 @@ appelleAPI(url)
                 lib = libelleMarker[niv-1];
             }
 
+            if (lib == "Gagner!") {
+                
+            }
+
             // FR: créer le marker
             // EN: create marker
             const markerIcon = new mark({
